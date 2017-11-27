@@ -1,9 +1,9 @@
 # Dashboard de Laboratoria
 En este preoyecto se nos pide realizar un sketch sobre las estadisticas y datos de las alumnas en laboratoria.
 Mostrar lo siguientes datos 
-+ # de alumnas inscritas
-+ # de alumnas que desertaron
-+ # y % de alumnas que pasan el criterio mínimo de evaluación
++ N° de alumnas inscritas
++ N° de alumnas que desertaron
++ N° y % de alumnas que pasan el criterio mínimo de evaluación
 + Promedio de notas por sprint
 + Promedio de notas HSE
 + Promedio de notas técnicas
